@@ -36,6 +36,7 @@ GROUP_URLS = [
         "E-vil Corp",
         # Monitoring URL:
         "159.89.213.38:3000/",
+        "159.89.213.38:5601/",
         # Security report URL:
         "http(s)://<TBA>/",
     ],
